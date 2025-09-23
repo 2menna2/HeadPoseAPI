@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+mediapipe
+numpy
+joblib
+scikit-learn==1.6.1
+gradio
+requests
