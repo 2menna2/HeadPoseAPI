@@ -3,7 +3,7 @@
 A **FastAPI**-based REST API for **head pose estimation** (pitch, yaw, roll)  
 from images and videos using **OpenCV**, **MediaPipe**, and **Scikit-learn**.
 
----
+```
 
 ## 📂 Project Structure
 HeadPoseAPI/
@@ -19,7 +19,7 @@ HeadPoseAPI/
 ├─ requirements.txt # Python dependencies
 └─ Dockerfile # Docker build file
 
----
+```
 
 ## 🚀 Run Locally (without Docker)
 
